@@ -7,12 +7,12 @@ This repository contains important security information regarding this FrostClie
 * This FrostClient is available to the public in a form of a version file.
 * All our game files are obfuscated.
 * We provide cosmetics (capes and wings) for free (Open cosmetics menu to select the cosmetics you want).
-* Our only official GitHub repositories are available under this [GitHub organisation account](https://github.com/FrosClient).
+* Our only official GitHub repositories are available under this [GitHub organisation account](https://github.com/FrostClient).
 
 CheatBreaker's Official Security Advisory can be found [here](https://github.com/CheatBreaker/Security-Advisory).
 
 ## Social Media Accounts
-* The only Discord server operated by us is [Offline CheatBreaker](https://discord.io/frostclient).
+* The only Discord server operated by us is [Frost](https://discord.io/frostclient).
 
 
 ## Website
